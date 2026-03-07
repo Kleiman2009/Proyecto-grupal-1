@@ -1,0 +1,38 @@
+*{
+
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100% ;
+    height: 40px;
+    margin-top: 50px;
+    padding: 15 px 0;
+    background-color: #570d0d;
+    color: whitesmoke;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    gap: 25px
+}
+
+.whatsapp-link{
+    color: #feffff;  
+    text-decoration: none;
+    font-weight: bold;
+}
+.whatsapp-link:hover{
+    color:  #1ebe5d;
+}
+footer i{
+    font-size: 24px;
+}
+.fa-instagram{
+    color: #E4405F;
+}
