@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * {
     margin: 0;
     padding: 0;
@@ -60,14 +60,6 @@ button {
     text-align: center;
     justify-content:center ;
 }
-=======
-*{
-
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 
 
 footer{
@@ -99,4 +91,3 @@ footer i{
 .fa-instagram{
     color: #E4405F;
 }
->>>>>>> d3e52fe5e44e08094a51ba1761778d008ce9fc8d
