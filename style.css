@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 header{
     background: linear-gradient(90deg,#fd0100,#205b94);
     color: white;
@@ -22,6 +23,9 @@ nav a:hover{
     width: 10px;
 =======
 <<<<<<< HEAD
+=======
+
+>>>>>>> 4b06abd54441330ca4f78e8b7c953f3d0aa2bf7f
 * {
     margin: 0;
     padding: 0;
@@ -83,14 +87,6 @@ button {
     text-align: center;
     justify-content:center ;
 }
-=======
-*{
-
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 
 
 footer{
@@ -122,5 +118,8 @@ footer i{
 .fa-instagram{
     color: #E4405F;
 }
+<<<<<<< HEAD
 >>>>>>> d3e52fe5e44e08094a51ba1761778d008ce9fc8d
 >>>>>>> 1628607aef16180b323c29be0311739a4abe2ab7
+=======
+>>>>>>> 4b06abd54441330ca4f78e8b7c953f3d0aa2bf7f
