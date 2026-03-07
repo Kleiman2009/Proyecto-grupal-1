@@ -1,0 +1,21 @@
+header{
+    background: linear-gradient(90deg,#fd0100,#205b94);
+    color: white;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a{
+    color: gray;
+    text-decoration: none;
+    margin: 30px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: blue;
+
+.logo{
+    width: 10px;
